@@ -28,3 +28,5 @@ pip install requests beautifulsoup4 lxml pandas
 py tge_scraper.py
 
 ### jesli uzywasz python3 to po prostu zamiast pip uzywaj pip3
+
+projekt zrobiony przez wiktora tobjasza dla pana aleksandra sudola pozdrawiam
